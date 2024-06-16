@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 0 10px rgba(234, 160, 160, 0.2), 0 0 0 20px rgba(210, 148, 148, 0.2), 0 0 0 30px rgba(223, 120, 120, 0.2), 0 0 0 40px rgba(220, 63, 63, 0.2), 0 0 0 50px rgba(243, 5, 5, 0.2);
+}
+
+.container p {
+    text-align: center;
+    color: white;
+}
+
+.paragraf {
+    margin: 20px;
+}
