@@ -1,8 +1,13 @@
-# React + Vite
+# Desafio Proposto pelo curso DEV-Quest
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição
+Desafio do curso que consiste em:
+1 - Fazer um componente redenrizar um paragráfo colorido e com todas as letras em maiúsculas
+2 - utilizar props para passar o texto e cor desejada para dentro do componente
+3 - criar um Button com evento de clique que apresente um alert informando a prop label do botão que foi clicado
 
-Currently, two official plugins are available:
+## Tecnologias usadas
+ as principais HTML, CSS, Javascript, React, e bibliotecas como a Toastify para redenrizar o alert
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Dificuldades 
+o Javascript ainda se torna minha criptonita, em certos momentos por ser tão amplo as possibilidades para ser usado em efetuar o algo, me perco.
